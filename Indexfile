@@ -1,0 +1,33 @@
+---
+name:
+  rubytest-progress
+
+version: 
+  0.1.0
+
+title:
+  Progress Report Format
+
+summary:
+  Progress report format for Rubytest
+
+description:
+  This is an progress test report format for the Rubytest metaframework.
+  It produces a progressbar as tests are run.
+
+resources:
+  home: http://rubyworks.github.com/rubytest-progress
+  code: http://github.com/rubyworks/rubytest-progress
+  mail: http://groups.google.com/group/rubyworks-mailinglist
+
+repositories:
+  upstream: git@github.com:rubyworks/rubytest-progress.git
+
+authors:
+  - trans <transfire@gmail.com>
+
+created: 2011-07-23
+
+copyrights:
+  - 2011 RubyWorks (BSD-2-Clause)
+

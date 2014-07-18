@@ -11,6 +11,8 @@ organizations: []
 requirements:
 - version: '>= 0'
   name: rubytest-core
+- version: '>= 0'
+  name: ansi
 conflicts: []
 alternatives: []
 resources:

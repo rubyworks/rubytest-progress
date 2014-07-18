@@ -1,6 +1,7 @@
 # Rubytest Progress Reporter
 
-This is a test report format for Rubytest.
+This report format for Rubytest uses a command line progressbar
+to indicate test progress.
 
 
 ## Requirements
